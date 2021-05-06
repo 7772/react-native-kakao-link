@@ -1,13 +1,3 @@
-/**
-
-본 파일의 내용은 https://github.com/shpongle2634/react-native-kakao-links 을 상당부분 참고하였습니다.
-
-지속적 관리를 위하여 kickgoing-app 의 내부 모듈로 동작하도록 구성했습니다.
-
-2019. 1. 10 박현도
-
- */
-
 #import "RNKakaoLink.h"
 #import <React/RCTLog.h>
 
